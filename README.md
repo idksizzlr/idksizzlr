@@ -1,6 +1,7 @@
 ## Hey! Welcome to my profile, I'm Vinicius Leal. 👾
 
 Finance & Audit Analyst driven by technology, automation, and data.
+
 I’m currently an auditor in the insurance industry, exploring the intersection between finance and code - using automation and analytics to turn data into smarter business decisions.
 
 ---

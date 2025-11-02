@@ -5,7 +5,7 @@ I’m currently an auditor in the insurance industry, exploring the intersection
 
 ---
 
-### 💡 Tools and Technologies I use
+### 💡 Tools and Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -29,8 +29,7 @@ I’m currently an auditor in the insurance industry, exploring the intersection
 ### 🌍 About me
 
 🇧🇷 Brazilian  
-💬 Fluent in English and Portuguese, advanced in Russian, basic in German. 
-🎯 Focused on FinOps, Finance, data automation, and operational efficiency.  
+💬 Fluent in English and Portuguese, advanced in Russian, basic in German.  
 📈 Curious about AI, MLOps, and process optimization.
 
 ---

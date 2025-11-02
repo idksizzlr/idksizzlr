@@ -6,6 +6,20 @@ I’m currently an auditor in the insurance industry, exploring the intersection
 
 ---
 
+### 🌍 About me
+
+🇧🇷 Brazilian  
+💬 Fluent in English and Portuguese, advanced in Russian, basic in German.  
+📈 Curious about AI, MLOps, and process optimization.
+
+---
+
+### 🌍 My guiding principle
+
+> **“Wir sind Beauvolf der kommenden Welt, wir sind der Saaman, die Satt und das Seld.”**
+> 
+---
+
 ### 💡 Tools and Technologies
 
 <div style="display: inline_block"><br>
@@ -25,15 +39,4 @@ I’m currently an auditor in the insurance industry, exploring the intersection
   <a href="https://www.linkedin.com/in/vinicius-ferreira-leal-ab64952b6"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
----
-
-### 🌍 About me
-
-🇧🇷 Brazilian  
-💬 Fluent in English and Portuguese, advanced in Russian, basic in German.  
-📈 Curious about AI, MLOps, and process optimization.
-
----
-
-> **“Wir sind Beauvolf der kommenden Welt, wir sind der Saaman, die Satt und das Seld.”**
 
